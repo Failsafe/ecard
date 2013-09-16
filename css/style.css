@@ -1,11 +1,10 @@
+/*style.css*/
 
-/* style.css */
-
-/*Comment above out to remove outlines*/
 body
 {
-  /*background-color: #000;*/
-  /*background-image:url(../images/background_light.jpg);*/
+  background:url(../images/background_light.jpg) no-repeat fixed center;
+  background-size: 100%;
+
 }
 
 #container
@@ -17,9 +16,9 @@ body
 
 #latest article
 {
-  background-color: #222;
+  background:url(../images/background_block_slice.jpg);
   float: left;
-  width: 60%;
+
 }
 
 #latest img
@@ -34,7 +33,8 @@ body
 
 aside
 {
-  background-color: #444;
+  background-color:rgb(169 169 169);
+
 }
 
 footer
