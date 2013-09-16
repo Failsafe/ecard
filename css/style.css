@@ -7,12 +7,12 @@ header
 }
 
 header img {
-  padding-left: 30px;
-  padding-top: 25px;
+padding-top: 25px;
 }
+
 body
 {
-  background:url(../images/background_light.jpg) no-repeat fixed center;
+  background:url(../images/background_light.jpg) no-repeat;
   background-size: 100%;
 }
 
