@@ -4,7 +4,6 @@ body
 {
   background:url(../images/background_light.jpg) no-repeat fixed center;
   background-size: 100%;
-
 }
 
 #container
@@ -18,12 +17,13 @@ body
 {
   background:url(../images/background_block_slice.jpg);
   float: left;
-
+  padding: 10px;
+  width: 490px;
 }
 
 #latest img
 {
-
+  width: 450px;
 }
 
 #main
@@ -39,5 +39,11 @@ aside
 
 footer
 {
-  background-color: #555;
+  background-color: black;
+  clear: both;
+  height: 50px;
+}
+
+footer p {
+  color: gray;
 }
