@@ -1,0 +1,43 @@
+
+/* style.css */
+
+/*Comment above out to remove outlines*/
+body
+{
+  /*background-color: #000;*/
+  /*background-image:url(../images/background_light.jpg);*/
+}
+
+#container
+{
+  background-color: #fff;
+  margin: auto;
+  width: 960px;
+}
+
+#latest article
+{
+  background-color: #222;
+  float: left;
+  width: 60%;
+}
+
+#latest img
+{
+
+}
+
+#main
+{
+  background-color: #333;
+}
+
+aside
+{
+  background-color: #444;
+}
+
+footer
+{
+  background-color: #555;
+}
