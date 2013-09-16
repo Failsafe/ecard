@@ -1,5 +1,10 @@
 /*style.css*/
+header
+{
+  margin-left: 450px;
+  margin-top: 25px;
 
+}
 body
 {
   background:url(../images/background_light.jpg) no-repeat fixed center;
