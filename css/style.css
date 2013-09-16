@@ -1,9 +1,14 @@
 /*style.css*/
 header
 {
-  margin-left: 450px;
-  margin-top: 25px;
+  margin: 0 auto;
+  background: none;
+  width: 960px;
+}
 
+header img {
+  padding-left: 30px;
+  padding-top: 25px;
 }
 body
 {
