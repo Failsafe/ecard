@@ -1,4 +1,33 @@
-html
+
+*{
+  border:1px solid red;
+}
+body
+/*Comment above out to remove outlines*/
 {
   background-image:url(../images/background_light.jpg);
+}
+#latest article
+{
+
+}
+#latest img
+{
+
+}
+#container
+{
+
+}
+#main
+{
+
+}
+aside
+{
+
+}
+footer
+{
+
 }
